@@ -1,0 +1,19 @@
+{
+  "name": "dialenjs",
+  "version": "8.10.0",
+  "description": "simple web app",
+  "main": "appendfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dialhub/intro-to-node.git"
+  },
+  "author": "Dialen D'souza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dialhub/intro-to-node/issues"
+  },
+  "homepage": "https://github.com/Dialhub/intro-to-node#readme"
+}
